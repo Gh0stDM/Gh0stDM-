@@ -13,4 +13,4 @@ A simple JWT-based authentication server built with PHP, JSON Web Tokens (JWT), 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/JWTForge.git
+   git clone https://github.com/Gh0stDM-/JWTForge.git
