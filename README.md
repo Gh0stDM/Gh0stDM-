@@ -1,16 +1,29 @@
-# Gh0stDM-
-Hack. Learn. Build. Secure.
-# JWTFORGE 🔐
+# 👋 Hi, I'm Daniel Miracle (Gh0stDM)
 
-A simple JWT-based authentication server built with PHP, JSON Web Tokens (JWT), and a frontend in HTML/CSS/JavaScript.
+🚀 **Rookie Cyber Beast in the making**  
+💻 Cybersecurity Student | Web Developer | Tech Explorer  
 
-## Features
-- User login with JWT authentication
-- Protected routes using JSON Web Token
-- Frontend built with HTML, CSS, and JS
-- Backend built with PHP and Firebase JWT library
+---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Gh0stDM-/JWTForge.git
+### 🌐 About Me
+- 🎯 Passionate about ethical hacking & secure coding  
+- 🧠 Always learning and experimenting with new tech  
+- ⚡ Currently building: A simple Login & Signup system  
+- 📚 Goal: Become a Cyber Beast before December 2025  
+
+---
+
+### 🛠️ Skills
+- HTML | CSS | JavaScript  
+- PHP | MySQL  
+- Linux | Git | Cybersecurity Fundamentals  
+
+---
+
+### 📫 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-Gh0stDM-black?logo=github)](https://github.com/Gh0stDM)
+[![Gmail](https://img.shields.io/badge/Email-miracled779%40gmail.com-red?logo=gmail)](mailto:miracled779@gmail.com)
+
+---
+
+⭐️ *“Hack. Learn. Build. Secure.”*
